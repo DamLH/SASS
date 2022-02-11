@@ -1,0 +1,19 @@
+{
+  "name": "sass",
+  "version": "1.0.0",
+  "description": "author: Damien L'HOSTIS",
+  "main": "index.js",
+  "scripts": {
+    "test": "package.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DamLH/SASS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DamLH/SASS/issues"
+  },
+  "homepage": "https://github.com/DamLH/SASS#readme"
+}
